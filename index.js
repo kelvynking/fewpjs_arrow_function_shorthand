@@ -3,3 +3,5 @@ let divide = function() {
 }
 
 const square = x => x ** 2;
+
+const add = (a, b) => a + b;
